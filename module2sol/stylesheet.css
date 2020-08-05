@@ -1,0 +1,38 @@
+h1{
+	text-align: center;
+	color: blue;
+}
+
+.row{
+	box-sizing:border-box;
+	width: 100%;
+	float:left;
+	margin:45px;
+}
+
+.col-lg-3, .col-md-6{
+	float: left;
+	margin:45px;
+	width:100%;
+}
+
+p {
+  border: 1px solid black;
+  background-color: blue;
+  width: 90%;
+  height: 90%;
+  margin-right: auto;
+  margin-left: auto;
+  color: black;
+  clear:right;
+}
+
+h2{
+	float:right;
+	margin-top: : 40px;
+	color:green;
+}
+
+body{
+	background-color: gray;
+}
