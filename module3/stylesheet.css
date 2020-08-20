@@ -86,16 +86,19 @@ section {
 #chicken-div {
   margin-bottom: 10px;
   margin-top: 10px;
+  color:black;
 }
 
 #beef-div {
   margin-bottom: 10px;
   margin-top: 10px;
+  color:black;
 }
 
 #sushi-div {
   margin-bottom: 10px;
   margin-top: 10px;
+  color:black;
 }
 
 .navbar-brand {
@@ -106,12 +109,13 @@ section {
 
 #header-nav {
   border: 0;
-  background-color: yellow;
+  background-color: black;
   color: black;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid #61122f;
+
 }
 .navbar-header button.navbar-toggle {
   clear: both;
@@ -119,11 +123,11 @@ section {
 }
 
 .nav-header {
-  background-color:yellow;
+  background-color:black;
 }
 
 .nav-brand {
-  color: black;
+  color: white;
   font-size: 1.5em;
 }
 
